@@ -3,8 +3,9 @@
 ```
 src/lib.rs
 ```
-See the test next to the source for usage.
 
-A small, time-injectable token-bucket rate limiter — no Redis, no dependencies.
+Run the Rust Token Bucket Rate Limiter test alongside the implementation for concrete examples.
 
-No dependencies, no service to run — just the standard library.
+A compact, time-injectable token-bucket rate limiter — pure in-memory, zero dependencies.
+
+Rust Token Bucket Rate Limiter relies solely on the Rust standard library; nothing to install, no external service required.
